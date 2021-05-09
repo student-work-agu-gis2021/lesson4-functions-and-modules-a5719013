@@ -50,6 +50,8 @@ print(fahr_to_celsius(71))
 #   2. What are some of the benefits of using functions?
 #   
 # Write your answers below:
+1.Function change event or matter to visible.
+2.The relationship of events or matters make clear.
 
 # YOUR ANSWER HERE. Write your answers as comments
 #
